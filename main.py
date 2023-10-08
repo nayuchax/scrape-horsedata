@@ -64,5 +64,4 @@ for url in url_list:
     data_list.append(data)
 
 
-
 # TODO pd結合 -> concat
