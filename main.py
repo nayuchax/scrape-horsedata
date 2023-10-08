@@ -56,3 +56,4 @@ df_horse_data = pd.concat(objs=df_list)
 
 # csv変換
 df_horse_data.to_csv("output.csv", sep=",")
+

@@ -36,3 +36,4 @@ def table_getter(url: str) -> list[list]:
         table_data.append(item_list)
 
     return table_data
+
